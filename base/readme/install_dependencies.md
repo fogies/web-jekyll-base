@@ -6,17 +6,6 @@ Dependencies required for this project are:
 {% include "base/readme/install_ruby_requirements.md" %}
 {% include "base/readme/install_docker_toolbox_requirements.md" %}
 
-# Windows Installation
+See [Dependency Installation for Windows](readme/install_dependencies_windows.html).
 
-{% include "base/readme/install_python_windows.md" %}
-{% include "base/readme/install_node_windows.md" %}
-{% include "base/readme/install_ruby_windows.md" %}
-{% include "base/readme/install_docker_toolbox_windows.md" -%}
-
-# Mac Installation
-
-{% include "base/readme/install_homebrew_mac.md" %}
-{% include "base/readme/install_python_mac.md" %}
-{% include "base/readme/install_node_mac.md" %}
-{% include "base/readme/install_ruby_mac.md" %}
-{% include "base/readme/install_docker_toolbox_mac.md" -%}
+See [Dependency Installation for Mac](readme/install_dependencies_mac.html).

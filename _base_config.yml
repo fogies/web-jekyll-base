@@ -88,6 +88,10 @@ compile_config:
   entries:
     - in:  README.md.in
       out: README.md
+    - in:  readme/install_dependencies_mac.md.in
+      out: readme/install_dependencies_mac.md
+    - in:  readme/install_dependencies_windows.md.in
+      out: readme/install_dependencies_windows.md
     - in:  requirements3.in.in
       out: requirements3.in
     - in:  .travis.yml.in
